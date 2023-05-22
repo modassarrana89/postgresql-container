@@ -1,4 +1,4 @@
-FROM quay.io/morana/s2i-core-c9s:c9s
+FROM quay.io/sclorg/s2i-core-c9s:c9s
 
 # PostgreSQL image for OpenShift.
 # Volumes:
